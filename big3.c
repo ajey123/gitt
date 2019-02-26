@@ -23,3 +23,6 @@ void main()
     else
         printf("num3 is the greatest among three \n");
 }
+#hello
+#hi
+#welcome
